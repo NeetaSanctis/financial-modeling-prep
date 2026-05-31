@@ -1,4 +1,5 @@
 # Financial Modeling Prep
+![Dashboard](images/dashboard.png)
 
 A Python-based financial modeling project designed to analyze, prepare, and visualize financial data for better business insights and decision-making.
 
