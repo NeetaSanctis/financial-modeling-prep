@@ -1,6 +1,6 @@
-# Financial Prep Modelling
+# Financial Modeling Prep
 
-A Python-based financial modelling project designed to analyze, prepare, and visualize financial data for better business insights and decision-making.
+A Python-based financial modeling project designed to analyze, prepare, and visualize financial data for better business insights and decision-making.
 
 ## Overview
 
